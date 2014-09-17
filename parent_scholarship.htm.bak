@@ -1,0 +1,162 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>ICT Careers</title>
+<meta name="description" content="your page description goes here"/>
+<link href="css/css.css" rel="stylesheet" type="text/css" />
+<link href="css/Stylesheet.css" rel="stylesheet" type="text/css">
+<link href='http://fonts.googleapis.com/css?family=Signika+Negative' rel='stylesheet' type='text/css' />
+</head>
+
+<body>
+<!--div id="logo"></div-->
+<div id="header">
+		<ul>
+			<li><a href="main.htm" class="whitelink">Home</a></li>
+      <li><a href="#" class="whitelink">About</a></li>
+      <li><a href="#" class="whitelink">Contact us</a></li>
+    </ul>
+</div>
+
+<div id="banner">
+	<div id="bannercenter">
+  		<div id="speech" class="class_box_shadow">ICT Careers<div class="sh_bottom_left"></div>
+   		</div>
+    </div>
+</div>
+	 <ul class="fourboxes">
+  		<li class="first"><a href="#"></span>Students</a></li>
+ 			<li><a href="teacher_main.htm"></span>Teachers</a></li>
+  		<li><a href="parent_main.htm">Parents</a></li>
+			<li><a href="#">Advisors</a></li>
+	 </ul>
+            
+<div id="maincontent">
+<h1>SCHOLARSHIP <br/>
+  <br />
+</h1>
+<table border="0"  cellspacing="0" cellpadding="0" class="generalTable">
+  <colgroup class="generalLeft"></colgroup>
+  <colgroup class="generalRight"></colgroup>	
+  <tr>
+        <td>State: </td>
+        <td>
+        		<select name="select5">
+             <option>----ALL----</option>
+             <option>VICTORIA</option>
+             <option>NEW SOUTH WALES(Coming soon)</option>
+             <option>QUEENLAND(Coming soon)</option>
+             <option>SOUTH AUSTRALIA(Coming soon)</option>
+             <option>WESTREN AUSTRALIA(Coming soon)</option>
+            </select>
+        </td>   
+  </tr>
+  <tr>
+        <td>&nbsp;</td>
+        <td><input type="button" value="Search"/></td>  
+          
+  </tr>
+
+</table>
+<BR>
+<table border="0"  cellspacing="0" cellpadding="0" class="generalTable">   
+	 <colgroup class="generalLeft"></colgroup>
+  <colgroup class="generalRight"></colgroup>	
+  <tbody>
+  <tr class="row1">
+  	<td>Scholarship Name: </td>
+  	<td>Monash NICTA Victorian Research Lab (VRL) Scholarships</td>
+  </tr>  	
+  <tr class="row1">
+  	<td>Scholarship detail: </td>
+  	<td>
+  		 NICTA offers scholarships for exceptional PhD students working in ICT-related disciplines such as information systems, electrical engineering and computer science
+    </td>
+  </tr>
+  <tr class="row1">
+  	<td>Closing date: </td>
+  	<td>Feb 28, May 31, August 31 and October 31 each year</td>
+  </tr>    
+  <tr class="row1">
+  	<td>State: </td>
+  	<td>VICTORIA (VIC)</td>
+  </tr>  
+  <tr class="row1">
+  	<td>CONTACT: </td>
+  	<td>-</td>
+  </tr>     
+  <tr class="row1">
+  	<td>MORE DETAIL: </td>
+  	<td>http://www.infotech.monash.edu.au/future/scholarships/nicta.html</td>
+  </tr>   
+  <tr class="row1">
+  	<td>&nbsp;</td>
+  	<td>&nbsp;</td>
+  </tr> 
+
+   <tr class="row2">
+  	<td>Scholarship Name: </td>
+  	<td>Tenix Solutions - Service Desk Analyst Scholarship</td>
+  </tr>  	
+  <tr class="row2">
+  	<td>Scholarship detail: </td>
+  	<td>
+  		 Successful candidate must be currently enrolled in a Bachelor"s degree in Business (Technical business), Computer Science, Information Systems, ICT or related field in an Australian University.
+    </td>
+  </tr>
+  <tr class="row2">
+  	<td>Closing date: </td>
+  	<td>19 Sep 2014</td>
+  </tr>   
+  <tr class="row2">
+  	<td>State: </td>
+  	<td>VICTORIA (VIC)</td>
+  </tr>  
+  <tr class="row2">
+  	<td>CONTACT: </td>
+  	<td>Lyn Raghuraman;info@acsfoundation.com.au; 8296 4443 </td>
+  </tr>     
+  <tr class="row2">
+  	<td>MORE DETAIL: </td>
+  	<td>http://www.acsfoundation.com.au/index.cfm?action=scholarships&temID=scholarsdetails&schID=201408110934178056</td>
+  </tr> 
+  
+   <tr class="row1">
+  	<td>&nbsp;</td>
+  	<td>&nbsp;</td>
+  </tr>  
+  
+    <tr class="row1">
+  	<td>Scholarship Name: </td>
+  	<td>OMC International - Graduate Software Developer Scholarship Role</td>
+  </tr>  	
+  <tr class="row1">
+  	<td>Scholarship detail: </td>
+  	<td>
+  		 This scholarship is open to all except those on student visas. You must have graduated from an Australian University in Computer Science, IT, Software Engineering or related degree. Also the applicant must be prepared to enrol in a University program in order to receive scholarship payments if offered the scholarship.
+       Undergraduates in their final year may also apply. Salary for undergrad is 30k, grad is 35k.
+    </td>
+  </tr>
+  <tr class="row1">
+  	<td>Closing date: </td>
+  	<td>19 Sep 2014</td>
+  </tr>  
+  
+  <tr class="row1">
+  	<td>State: </td>
+  	<td>VICTORIA (VIC)</td>
+  </tr>  
+  <tr class="row1">
+  	<td>CONTACT: </td>
+  	<td>Lyn Raghuraman;info@acsfoundation.com.au; 8296 4443 </td>
+  </tr>     
+  <tr class="row1">
+  	<td>MORE DETAIL: </td>
+  	<td>http://www.infotech.monash.edu.au/future/scholarships/nicta.html</td>
+  </tr> 
+</tbody> 
+</table>
+  
+</body>
+</html>

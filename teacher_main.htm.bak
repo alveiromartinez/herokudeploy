@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>ICT Careers</title>
+<meta name="description" content="your page description goes here"/>
+<link href="css/css.css" rel="stylesheet" type="text/css" />
+<link href="css/Stylesheet.css" rel="stylesheet" type="text/css">
+<link href='http://fonts.googleapis.com/css?family=Signika+Negative' rel='stylesheet' type='text/css' />
+</head>
+
+<body>
+<!--div id="logo"></div-->
+<div id="header">
+		<ul>
+			<li><a href="main.htm" class="whitelink">Home</a></li>
+      <li><a href="#" class="whitelink">About</a></li>
+      <li><a href="#" class="whitelink">Contact us</a></li>
+    </ul>
+</div>
+
+<div id="banner">
+	<div id="bannercenter">
+  		<div id="speech" class="class_box_shadow">ICT Careers<div class="sh_bottom_left"></div>
+   		</div>
+    </div>
+</div>
+	 <ul class="fourboxes">
+  		<li class="first"><a href="#"></span>Students</a></li>
+ 			<li><a href="teacher_main.htm"></span>Teachers</a></li>
+  		<li><a href="parent_main.htm">Parents</a></li>
+			<li><a href="#">Advisors</a></li>
+	 </ul>
+            
+<div id="maincontent">
+<h1>Teacher Helping<br/>
+  <br />
+</h1>
+<table border="0"  cellspacing="0" cellpadding="0" class="generalTable">
+  <colgroup class="generalLeft"></colgroup>
+  <colgroup class="generalRight"></colgroup>	
+  <tbody>
+  <tr class="row1">
+  	<td>Topic: </td>
+  	<td>Bebras  Computational Thinking Challenge</td>
+  </tr>  	
+  <tr class="row1">
+  	<td>Detail: </td>
+  	<td>Digital Careers is leading the Australian rollout of this global Computational Thinking Challenge. Over the first two weeks of September 2014 students around the country will participate in this free, in class challenge. For more information visit the Australian Bebras website.</td>
+  </tr> 
+  <tr class="row1">
+  	<td>URL: </td>
+  	<td>http://www.bebras.edu.au/</td>
+  </tr>   
+
+  <tr class="row2">
+  	<td>Topic: </td>
+  	<td>Young ICT Explorers</td>
+  </tr>  	
+  <tr class="row2">
+  	<td>Detail: </td>
+  	<td>a non-profit competition, Young ICT Explorers was created by SAP to encourage school students to create their best Information and Communication Technology (ICT) related projects. In 2014 judging events will take place over August and September in five locations across Australia
+    </td>
+  </tr> 
+  <tr class="row2">
+  	<td>URL: </td>
+  	<td>http://www.youngictexplorers.net.au/</td>
+  </tr>  
+  
+  
+  <tr class="row1">
+  	<td>Topic: </td>
+  	<td>Australian Curriculum: Digital Technologies</td>
+  </tr>  	
+  <tr class="row1">
+  	<td>Detail: </td>
+  	<td>developed by the Australian Curriculum Assessment and Reporting Authority (ACARA) and published on the Australian Curriculum website as available for use; the Australian Curriculum: Digital Technologies is awaiting final endorsement.</td>
+  </tr> 
+  <tr class="row1">
+  	<td>URL: </td>
+  	<td>http://www.australiancurriculum.edu.au/</td>
+  </tr>    
+     
+</tbody> 
+</table>
+  
+</body>
+</html>

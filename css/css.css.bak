@@ -1,0 +1,69 @@
+@charset "utf-8";
+/* CSS Document */
+/* Reset CSS */
+html, body, div, span, applet, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {	margin: 0;	padding: 0;	border: 0;	font-size: 100%;	font: inherit;	vertical-align: baseline;	font-family:verdana, tahoma, helvetica, sans-serif;}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {display: block;}
+body {	line-height: 1;}ol, ul {list-style: none;} blockquote, q {	quotes: none;} blockquote:before, blockquote:after,
+q:before, q:after {	content: '';	content: none;} table {	border-collapse: collapse;	border-spacing: 0;}
+/*-----------------------------------------End of Reset CSS---------------------------------------------- */ 
+body, html{font-family: 'Signika Negative', sans-serif; width:100%; height:100%; font-size:1.1em;}
+
+body{background-color:#346198; color:#346198;}
+
+a, a:link, a:visited, a:active{text-decoration:none;} 
+
+h1{font-size:1.6em; font-family: 'Signika Negative', sans-serif;}
+
+a.whitelink, a.whitelink:link, a.whitelink:visited, a.whitelink:active, a.whitelink:active{color:white;}
+
+#logo{	position:absolute;	top:-2px;	left:15px;	width:81px;	height:70px;	background:url(../../aesthetics-graphics/community/web-design-larger/images/logo.gif) top center no-repeat white;	z-index:100;	border: solid 1px #346198; -webkit-box-shadow: 0px 0px 11px rgba(50, 50, 50, 0.5);-moz-box-shadow:    0px 0px 11px rgba(50, 50, 50, 0.5);box-shadow:         0px 0px 11px rgba(50, 50, 50, 0.5);}
+
+#header{position:absolute; top:0px; left:0px; height:25px; width:100%; background-color:#666; font-size:0.8em; border:none; border-bottom: 1px solid #666; }
+
+#header ul{float:right; padding-right:7px;}
+
+#header ul li{float:left; padding-left:10px;line-height:25px; padding-right:10px; font-size:0.9em; border-right:dotted 1px #CCC;}
+
+#header ul li:hover{background-color:#346198; color:white;}
+
+#banner{position:absolute; top:29px; left:0px; height:250px; width:100%;  font-size:1em; border:none; background:rgba(255,255,255,1); -webkit-box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.34);
+-moz-box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.34);
+box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.34);  }
+
+#bannercenter{position:relative; width:700px; height:250px; margin:0 auto; background:url(../../aesthetics-graphics/community/web-design-larger/images/problue.jpg) 0 25px no-repeat white; padding:0;}
+
+#speech{	position:absolute;	top:38px;	left:241px;	width:300px;	-webkit-border-radius: 95px 99px 99px 0px;	-moz-border-radius: 95px 99px 99px 0px;	border-radius: 95px 99px 99px 0px;	height:100px;	line-height:100px;	padding:5px;	text-align:center;	background-color:#FF8400;	color:white;	font-size:1.8em; border: 5px solid white;	-webkit-box-shadow:0 0 0 2px #FF8400;	-moz-box-shadow:0 0 0 2px #FF8400;	box-shadow:0 0 0 2px #FF8400; }
+
+ul.fourboxes{ position:relative; top:295px; margin:0 auto; height:200px; width:80%; font-size:2em; border:none; }
+
+ul.fourboxes li{width:21%; margin-left:4%; background-color:#00FFCC; display:block; float:left; height:100px; -webkit-border-radius: 20px;-moz-border-radius: 20px;border-radius: 20px;-webkit-box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.34);  -moz-box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.34);box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.34); -webkit-transition:all 0.3s;}
+
+ul.fourboxes li:hover{-webkit-box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.6); -moz-box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.6); box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.6); }
+
+ul.fourboxes li.first{margin-left:2%;}
+
+ul.fourboxes li a{line-height:50px; display:block;  height:100%; width:100%; line-height:50px; padding-left:5px;  text-align:center;}
+
+ul.fourboxes li a:hover{font-weight:bold;}
+
+ul.fourboxes li a span{display:block;  background-color:white; height:20px; width:20px; margin: 0 auto; margin-top:20px;}
+
+ul.fourboxes li a span.tri{ width: 0;  height: 0;  border-bottom: 20px solid white;  /* 104 = 120 * 0.866 */  border-left: 10px solid #6795CC;  border-right: 10px solid #6795CC;}
+  
+ul.fourboxes li a span.circle{-moz-border-radius: 10px;	-webkit-border-radius: 10px;	border-radius: 10px;}
+	
+	
+ul.fourboxes li a span.pacman{width: 0px;  height: 0px;  border-right: 10px solid #6795CC;  border-top: 10px solid white;  border-left: 10px solid white;  border-bottom: 10px solid white;  border-top-left-radius: 10px;  border-top-right-radius: 10px;  border-bottom-left-radius: 10px;  border-bottom-right-radius: 10px;}
+
+ul.fourboxes li a:hover span{background-color:#FF8400;-webkit-transition:all 0.2s; }
+
+ul.fourboxes li a:hover span.pacman{ border-top: 10px solid #FF8400;  border-left: 10px solid #FF8400;  border-bottom: 10px solid #FF8400; -webkit-transition:all 0.2s;}
+
+ul.fourboxes li a:hover span.tri{
+  border-bottom: 20px solid #FF8400;  -webkit-transition:all 0.2s;}
+
+#maincontent{ position:relative; top:215px; margin:0 auto;  width:76%; background-color:green; font-size:0.8em; border:none; padding:15px; margin-bottom:50px; padding-bottom:50px; height:auto; }
+
+
+ 

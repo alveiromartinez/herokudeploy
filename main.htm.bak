@@ -35,10 +35,10 @@
     </div>
 </div>
 	 <ul class="fourboxes">
-  		<li class="first"><a href="#"><p style="color:black">Students</p></a></li>
+  		<li class="first"><a href="#">Students</a></li>
  			<li><a href="teacher_main.htm"><p style="color:black">Teachers</p></a></li>
-  		<li><a href="parent_main.htm"><p style="color:black">Parents</p></a></li>
-			<li><a href="#"><p style="color:black">Advisors</p></a></li>
+  		<li><a href="parent_main.htm">Parents</a></li>
+			<li><a href="#">Advisors</a></li>
 	 </ul>
             
 <div id="maincontent">

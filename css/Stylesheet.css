@@ -1,0 +1,51 @@
+table.generalTable {
+	font: 13px "MS Sans Serif" "Microsoft Sans Serif" Tahoma;
+	background-color: #E6E6E6;
+	width: 95%;
+	padding: 0px 0px 0px 3px;
+	text-align: left;
+   border-color: #FFFFFF;
+   border-width: 0 0 1px 0;
+   border-style: solid;
+
+}
+
+table.generalTable td {
+    border-color: #FFFFFF;
+    border-width: 1px 0 0 0;
+    border-style: solid;
+    margin: 0;
+    padding: 2px 2px 2px 5px;
+}
+
+table.generalTable th {
+	color: #FFFFFF;
+	text-align: center;
+	font-weight: bold;
+	background-color: #37402B;
+	vertical-align: top;
+}
+
+table.generalTable colgroup.generalLeft {
+	color: #000000;
+	text-align: left;
+	font-weight: bold;
+	background-color: #CECECE;
+	width: 25%;
+	vertical-align: top;
+}
+table.generalTable colgroup.generalRight {
+	color: #000000;
+	text-align: left;
+	background-color: #E6E6E6;
+	vertical-align: top;
+}
+table.generalTable tr.row1 {
+	color: #000000;
+	background-color: #FFFFFF;
+}
+
+table.generalTable tr.row2 {
+	color: #000000;
+	background-color: #EBEBEB;
+}

@@ -1,0 +1,99 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>ICT Careers</title>
+<meta name="description" content="your page description goes here"/>
+<link href="css/css.css" rel="stylesheet" type="text/css" />
+<link href="css/Stylesheet.css" rel="stylesheet" type="text/css">
+<link href='http://fonts.googleapis.com/css?family=Signika+Negative' rel='stylesheet' type='text/css' />
+</head>
+
+<body>
+<!--div id="logo"></div-->
+<div id="header">
+		<ul>
+			<li><a href="main.htm" class="whitelink">Home</a></li>
+      <li><a href="#" class="whitelink">About</a></li>
+      <li><a href="#" class="whitelink">Contact us</a></li>
+    </ul>
+</div>
+
+<div id="banner">
+	<div id="bannercenter">
+  		<div id="speech" class="class_box_shadow">ICT Careers<div class="sh_bottom_left"></div>
+   		</div>
+    </div>
+</div>
+	 <ul class="fourboxes">
+  		<li class="first"><a href="#"></span>Students</a></li>
+ 			<li><a href="teacher_main.htm"></span>Teachers</a></li>
+  		<li><a href="parent_main.htm">Parents</a></li>
+			<li><a href="#">Advisors</a></li>
+	 </ul>
+            
+<div id="maincontent">
+<h1>Careers<br/>
+  <br />
+</h1>
+<table border="0"  cellspacing="0" cellpadding="0" class="generalTable">
+  <colgroup class="generalLeft"></colgroup>
+  <colgroup class="generalRight"></colgroup>	
+  <tbody>
+  <tr class="row1">
+  	<td>Group Name: </td>
+  	<td>Analyse Business</td>
+  </tr>  	
+  <tr class="row1">
+  	<td>Jobs: </td>
+  	<td>Project Manager, Business analyst, Knowledge management, Technical writer</td>
+  </tr>
+  <tr class="row1">
+  	<td>Skill&Interests: </td>
+  	<td>goal&results driven, persuade others, encourage change, drive initiatives</td>
+  </tr>  
+  
+  <tr class="row1">
+  	<td>profile: </td>
+  	<td><a href="http://www.youthcentral.vic.gov.au/ViewPage.action?siteNodeId=1644&repositoryName=www.youthcentral&ContentNodeId=14544">Business Analyst</a></td>
+  </tr>   
+  <tr class="row1">
+  	<td>URL: </td>
+  	<td>http://www.youthcentral.vic.gov.au/jobs/ict</td>
+  </tr>   
+  <tr class="row1">
+  	<td>&nbsp;</td>
+  	<td>&nbsp;</td>
+  </tr> 
+
+  <tr class="row2">
+  	<td>Group Name: </td>
+  	<td>Help People</td>
+  </tr>  	
+  <tr class="row2">
+  	<td>Jobs: </td>
+  	<td>Internet support, ICT trainer, Super user, ICT support/helpdesk</td>
+  </tr>
+  <tr class="row2">
+  	<td>Skill&Interests: </td>
+  	<td>solve problems, communicate, inform&enlighten others, support people, customer service</td>
+  </tr>    
+  <tr class="row2">
+  	<td>profile: </td>
+  	<td><a href="http://www.youthcentral.vic.gov.au/ViewPage.action?siteNodeId=1644&repositoryName=www.youthcentral&ContentNodeId=14544">Help Desk Consultant</a></td>
+  </tr>   
+  <tr class="row2">
+  	<td>URL: </td>
+  	<td>http://www.youthcentral.vic.gov.au/jobs/ict</td>
+  </tr>   
+ 
+     
+</tbody> 
+</table>
+  
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>
